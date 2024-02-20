@@ -4,7 +4,7 @@ favicon:
 # 主题模式
 theme:
   switch: true
-  default: style-dark
+  default: style-light
 # 用户基本信息，用于博主名称、头像、友链交换规则、站点运行计时等等。
 user:
   name: Summer
