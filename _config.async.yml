@@ -1,6 +1,9 @@
 # 页面左上角logo
 favicon:
-  logo: ''
+  logo: false
+  # icon16: /img/summer.svg
+  # 页签icon
+  icon32: /img/summer.svg
 # 主题模式
 theme:
   switch: true
