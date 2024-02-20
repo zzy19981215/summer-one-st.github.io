@@ -1,0 +1,70 @@
+# 页面左上角logo
+favicon:
+  logo: ''
+# 主题模式
+theme:
+  switch: true
+  default: style-dark
+# 用户基本信息，用于博主名称、头像、友链交换规则、站点运行计时等等。
+user:
+  name: Summer
+  first_name: 
+  last_name: Summer
+  avatar: /img/summer.png  
+  email: 1757263661@qq.com
+sidebar:
+  typedTextPrefix: 《定风波》
+  typedText: ["回首向来萧瑟处，归去，也无风雨也无晴。"]
+  info: # 个人信息
+    - key: 地址
+      val: 地球
+    - key: 年龄
+      val: 25
+# banner图
+banner:
+  index:
+    type: img
+    bgurl: /img/banner1.png  
+    bannerTitle: 树深时见鹿，<br>溪午不闻钟。
+    bannerText: Hi my new friend!
+  archive:
+    bannerTitle: 云间连下榻，<br>天上接行杯。
+    bannerText: The article archive
+  links:
+    bannerTitle: 莫愁前路无知己，<br>天下谁人不识君。
+    bannerText: A link to a friend's website
+  comment:
+    bannerTitle: 醉后不知天在水，<br>满船清梦压星河。
+    bannerText: The magic tree hole
+  about:
+    bannerTitle: 醉后不知天在水，<br>满船清梦压星河。
+    bannerText: About me
+
+# about:
+# insert: none # before | after | none
+#   title: 如果一切都是镜花水月，那就让这万物走向终结。如果一切皆是命中注定，那就让这世界消失殆尽。
+#   introduction: 大家好，我是 <strong>Async</strong>，很高兴您能在浩瀚如烟的互联网世界里发现这个博客，更感谢您能够饶有兴致地浏览这个页面。建立这个 Blog 是出于兴趣爱好，我将在此分会分享一些学习笔记，可能还会分享少许图片、视频以及其他有趣东西的链接。
+#   blog: 
+#     <ul class="trm-list">
+#       <li>程序：Hexo </li>
+#       <li>主题：Hexo-theme-async </li>
+#     </ul>
+#   privacy: 
+#     本网站不会追踪访客行为，且不要求访客提供任何敏感信息（比如真实姓名、身份证号码、手机号等），因而也不存在任何隐私泄漏问题。访客参与评论，必须遵守法律法规和基本道德规范，文明礼貌。严禁发布任何有关淫秽、反动、暴力、博彩、恐吓、低俗的内容或违法信息，在尊重言论自由的同时请保持和平与理性。请勿对他人采取不友好的评论或其它过激行为。
+
+# 页脚
+footer:
+  powered:
+    enable: true
+  beian:
+    enable: false
+    icp:
+  copyrightYear:
+  live_time:
+    enable: true
+    prefix: footer.tips
+    start_time: 01/10/2024 17:00:00
+# 右下角悬浮按钮块。readmode: 阅读模式按钮；aside: 单双栏切换按钮
+rightside:
+  readmode: true
+  aside: true
