@@ -71,3 +71,25 @@ footer:
 rightside:
   readmode: true
   aside: true
+# 图片懒加载
+lazyload:
+  enable: true
+# 版权信息
+creative_commons:
+  license: by-nc-sa
+  language: deed.zh
+  post: false
+  clipboard: false
+# 文章过期提示
+notice_outdate:
+  enable: true
+  style: flat
+  limit_day: 365
+  position: top
+# 文章目录
+toc:
+  enable: true
+  list_number: true
+  post_title: false
+  max_depth: 3
+  min_depth: 1
