@@ -1,5 +1,5 @@
 ---
-title: Hello World000
+title: Hello World
 date: 2024-01-14 17:02:34
 categories: 其他分类
 cover: /img/artBg2.png
